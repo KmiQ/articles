@@ -2,6 +2,8 @@
 
 **Balancing latency, cost, and control in a voice AI deployment**
 
+*By Camilo Quintas · November 2026 · [LinkedIn](https://www.linkedin.com/in/ickintas/)*
+
 *Part 1 of a series on voice AI and inference engineering. We’ll explore a migration to open-weight LLMs using a fictional bicycle-rental agent and illustrative numbers.*
 
 Imagine calling a bicycle-rental shop: "Hi, I'd like to rent two bikes tomorrow morning." A voice AI agent asks when you'd like to pick them up. The exchange follows a familiar pipeline:
